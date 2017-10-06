@@ -1,0 +1,61 @@
+=== Started 2017-09-22T15-21-37-850 ===
+[ERROR][15:21:37] Unknown gameserver.ini value: badWordFilter
+[INFO ][15:21:37] 419 bad words loaded
+[WARN ][15:21:37] User account "Local Administrator" disabled
+[WARN ][15:21:37] User account "Local Moderator" disabled
+[WARN ][15:21:37] User account "Local User" disabled
+[INFO ][15:21:37] 0 user records loaded.
+[INFO ][15:21:37] 0 IP ban records loaded.
+[INFO ][15:21:37] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:21:37] WebSocket: ws
+[INFO ][15:21:38] Started stats server on port 88
+[INFO ][15:21:38] Listening on port 443
+[INFO ][15:21:38] Current game mode is Free For All
+[NONE ][15:21:38]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:21:41] CONNECTED 127.0.0.1:53394, origin: "http://agar.io"
+[NONE ][15:21:54] >mass 1 5000
+[NONE ][15:21:54] Set mass of Hungary to 5000.000
+[NONE ][15:22:12] >minion 1 20
+[NONE ][15:22:12] Added 20 minions for Hungary
+[NONE ][15:22:36] DISCONNECTED 127.0.0.1:53394, code: 1006, reason: "undefined", name: "Hungary"
+[NONE ][15:23:02] CONNECTED 127.0.0.1:53528, origin: "http://agarahg.esy.es"
+[NONE ][15:23:22] >pl
+[NONE ][15:23:22] 
+Current players: 1
+[NONE ][15:23:22] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:23:22]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][15:23:22] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:23:22]      22 | 127.0.0.1       | 6 |     1 |     31 | -7043,  2038 | {7m7} Jani     
+[NONE ][15:23:27] >mass 22 10000
+[NONE ][15:23:27] Set mass of {7m7} Jani to 10000.000
+[NONE ][15:23:36] >rec 1
+[WARN ][15:23:36] That player ID is non-existant!
+[NONE ][15:23:39] >rec 22
+[NONE ][15:23:39] {7m7} Jani is now in rec mode!
+[NONE ][15:24:02] >minion 1 1 100
+[NONE ][15:24:11] >minion 22 1 111
+[NONE ][15:24:11] Added 1 minions for {7m7} Jani
+[NONE ][15:25:18] >mass 22 5000
+[NONE ][15:25:18] Set mass of {7m7} Jani to 5000.000
+[NONE ][15:26:37] >minion 22 1 {7m7} 100
+[NONE ][15:26:37] Added 1 minions for {7m7} Jani
+[NONE ][15:29:31] >mass 1 1000
+[WARN ][15:29:31] That player ID is non-existant!
+[NONE ][15:29:36] >mass 22 5000
+[NONE ][15:29:36] Set mass of {7m7} Jani to 5000.000
+[NONE ][15:29:47] >merge 23
+[NONE ][15:29:47] 111 is now force merging
+[NONE ][15:30:18] >spawnmass 22 1000
+[NONE ][15:30:18] Set spawnmass of {7m7} Jani to 1000.000
+[NONE ][15:30:22] >kill 22
+[NONE ][15:30:22] Killed {7m7} Jani and removed 1 cells
+[NONE ][15:44:12] >exit
+[WARN ][15:44:12] Closing server...
+[DEBUG][15:44:12] process.exit(1)
+=== Shutdown 2017-09-22T15-44-12-689 ===

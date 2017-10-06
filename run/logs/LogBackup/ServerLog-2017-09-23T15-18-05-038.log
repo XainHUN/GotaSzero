@@ -1,0 +1,32 @@
+=== Started 2017-09-23T15-10-24-341 ===
+[ERROR][15:10:24] Unknown gameserver.ini value: badWordFilter
+[INFO ][15:10:24] 419 bad words loaded
+[WARN ][15:10:24] User account "Local Administrator" disabled
+[WARN ][15:10:24] User account "Local Moderator" disabled
+[WARN ][15:10:24] User account "Local User" disabled
+[INFO ][15:10:24] 0 user records loaded.
+[INFO ][15:10:24] 0 IP ban records loaded.
+[INFO ][15:10:24] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:10:24] WebSocket: ws
+[INFO ][15:10:25] Started stats server on port 88
+[INFO ][15:10:25] Listening on port 443
+[INFO ][15:10:25] Current game mode is Free For All
+[NONE ][15:10:25]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:11:24] CONNECTED 127.0.0.1:52296, origin: "http://agar.io"
+[NONE ][15:12:03] >spawnmass 1 1000
+[NONE ][15:12:03] Set spawnmass of Jani to 1000.000
+[NONE ][15:12:07] >mass 1 1000
+[NONE ][15:12:07] Set mass of Jani to 1000.000
+[NONE ][15:12:14] >rec 1
+[NONE ][15:12:14] Jani is now in rec mode!
+[NONE ][15:12:48] >minion 1 1 1 1 1
+[NONE ][15:12:48] Added 1 minions for Jani
+[NONE ][15:13:21] >mass 1 400
+[NONE ][15:13:21] Set mass of Jani to 400.000
+[NONE ][15:14:38] >minion 1 150
+[NONE ][15:14:38] Added 150 minions for Jani

@@ -1,0 +1,37 @@
+=== Started 2017-09-22T13-32-54-865 ===
+[ERROR][13:32:55] Unknown gameserver.ini value: badWordFilter
+[INFO ][13:32:55] 419 bad words loaded
+[WARN ][13:32:55] User account "Local Administrator" disabled
+[WARN ][13:32:55] User account "Local Moderator" disabled
+[WARN ][13:32:55] User account "Local User" disabled
+[INFO ][13:32:55] 0 user records loaded.
+[INFO ][13:32:55] 0 IP ban records loaded.
+[INFO ][13:32:55] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:32:55] WebSocket: ws
+[INFO ][13:32:55] Started stats server on port 88
+[INFO ][13:32:55] Listening on port 443
+[INFO ][13:32:55] Current game mode is Free For All
+[NONE ][13:32:55]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:33:14] CONNECTED 127.0.0.1:50087, origin: "http://agar.io"
+[NONE ][13:33:37] >mass 1 10000
+[NONE ][13:33:37] Set mass of An unnamed cell to 10000.000
+[NONE ][13:33:42] >rec 1
+[NONE ][13:33:42] An unnamed cell is now in rec mode!
+[NONE ][13:34:29] >mass 1 200
+[NONE ][13:34:29] Set mass of An unnamed cell to 200.000
+[NONE ][13:34:54] >addbot 10
+[NONE ][13:34:54] Added 10 player bots
+[NONE ][13:35:39] >skin 1 ranger
+[WARN ][13:35:39] Player is alive, skin will not be applied to existing cells!
+[NONE ][13:35:39] Player "An unnamed cell"'s skin is changed to ranger
+[NONE ][13:36:07] >minion 1 20
+[NONE ][13:36:07] Added 20 minions for An unnamed cell
+[NONE ][13:55:34] >exit
+[WARN ][13:55:34] Closing server...
+[DEBUG][13:55:34] process.exit(1)
+=== Shutdown 2017-09-22T13-55-34-768 ===

@@ -1,0 +1,22 @@
+=== Started 2017-09-26T16-19-28-368 ===
+[ERROR][16:19:28] Unknown gameserver.ini value: badWordFilter
+[INFO ][16:19:28] 419 bad words loaded
+[WARN ][16:19:28] User account "Local Administrator" disabled
+[WARN ][16:19:28] User account "Local Moderator" disabled
+[WARN ][16:19:28] User account "Local User" disabled
+[INFO ][16:19:28] 0 user records loaded.
+[INFO ][16:19:28] 0 IP ban records loaded.
+[INFO ][16:19:28] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][16:19:28] WebSocket: ws
+[INFO ][16:19:28] Started stats server on port 88
+[INFO ][16:19:28] Listening on port 443
+[INFO ][16:19:28] Current game mode is Free For All
+[FATAL][16:19:28] TypeError: this.setColor is not a function
+    at Virus (C:\Users\Ferenc\Desktop\MultiOgar-Edited-master\src\entity\Virus.js:8:10)
+    at GameServer.spawnCells (C:\Users\Ferenc\Desktop\MultiOgar-Edited-master\src\GameServer.js:843:21)
+    at GameServer.mainLoop (C:\Users\Ferenc\Desktop\MultiOgar-Edited-master\src\GameServer.js:618:18)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+[DEBUG][16:19:28] process.exit(1)
+=== Shutdown 2017-09-26T16-19-28-550 ===
